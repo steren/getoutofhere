@@ -1,0 +1,1 @@
+Core engine to remove anomalies in a set of images
