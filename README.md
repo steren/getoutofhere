@@ -4,7 +4,7 @@ getoutofhere
 Automatic tourist remover tool
 
 TODO: 
-1. be able to take a part of one image and merge it on another
+1. be able to take a part of one image using an alpha mask and merge it on another
 2. look at 2 images and detect differences using threshold
 3. group pixel differences into area anomalies
 4. look at 3 images of the same scene, determine which anomaly should be removed and generate the image result 
